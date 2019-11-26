@@ -1,3 +1,5 @@
 deps/tomcat/im_http_service/logs
+deps/tomcat/push_service/logs
+deps/tomcat/qfproxy/logs
 deps/tomcat/apache-tomcat-8.5.37
-deps/tomcat/im_http_service/webapps
+deps/tomcat/im_http_service/webapps/im_http_service

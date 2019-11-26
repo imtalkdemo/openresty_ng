@@ -115,8 +115,8 @@
 #                   case the default is "true"
 # -----------------------------------------------------------------------------
 
-CATALINA_HOME=/home/zhangchao/work/talk/openresty_ng/deps/tomcat/im_http_service
-CATALINA_BASE=/home/zhangchao/work/talk/openresty_ng/deps/tomcat/im_http_service
+CATALINA_HOME=/home/zhangchao11/work/talk/openresty_ng/deps/tomcat/im_http_service
+CATALINA_BASE=/home/zhangchao11/work/talk/openresty_ng/deps/tomcat/im_http_service
 
 # OS specific support.  $var _must_ be set to either true or false.
 cygwin=false
