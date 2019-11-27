@@ -115,8 +115,8 @@
 #                   case the default is "true"
 # -----------------------------------------------------------------------------
 
-CATALINA_HOME=/home/zhangchao11/work/talk/openresty_ng/deps/tomcat/qfproxy
-CATALINA_BASE=/home/zhangchao11/work/talk/openresty_ng/deps/tomcat/qfproxy
+CATALINA_HOME=/data/talk/openresty_ng/deps/tomcat/qfproxy
+CATALINA_BASE=/data/talk/openresty_ng/deps/tomcat/qfproxy
 
 # OS specific support.  $var _must_ be set to either true or false.
 cygwin=false
