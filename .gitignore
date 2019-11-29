@@ -2,4 +2,6 @@ deps/tomcat/im_http_service/logs
 deps/tomcat/push_service/logs
 deps/tomcat/qfproxy/logs
 deps/tomcat/apache-tomcat-8.5.37
-deps/tomcat/im_http_service/webapps/im_http_service
+deps/tomcat/im_http_service/webapps/im_http_service*
+deps/tomcat/qtalk_background_management/logs
+deps/tomcat/qtalk_background_management/webapps/qtalk_background_management*
