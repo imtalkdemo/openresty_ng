@@ -115,8 +115,8 @@
 #                   case the default is "true"
 # -----------------------------------------------------------------------------
 
-CATALINA_HOME=/data/talk/openresty_ng/deps/tomcat/push_service
-CATALINA_BASE=/data/talk/openresty_ng/deps/tomcat/push_service
+CATALINA_HOME=/startalk/openresty_ng/deps/tomcat/push_service
+CATALINA_BASE=/startalk/openresty_ng/deps/tomcat/push_service
 
 # OS specific support.  $var _must_ be set to either true or false.
 cygwin=false

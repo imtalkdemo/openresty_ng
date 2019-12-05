@@ -11,6 +11,6 @@ _M.redis = {}
 _M.redis.host = '127.0.0.1'
 _M.redis.port = '6379'
 _M.redis.subpool = 2
-_M.redis.passwd = ''
+_M.redis.passwd = '123456'
 
 return _M

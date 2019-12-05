@@ -1,7 +1,11 @@
 deps/tomcat/im_http_service/logs
-deps/tomcat/push_service/logs
-deps/tomcat/qfproxy/logs
-deps/tomcat/apache-tomcat-8.5.37
 deps/tomcat/im_http_service/webapps/im_http_service*
+deps/tomcat/push_service/logs
+deps/tomcat/push_service/webapps/push_service*
+deps/tomcat/qfproxy/logs
+deps/tomcat/qfproxy/webapps/qfproxy*
+deps/tomcat/apache-tomcat-8.5.37
 deps/tomcat/qtalk_background_management/logs
 deps/tomcat/qtalk_background_management/webapps/qtalk_background_management*
+deps/tomcat/qchat_admin_open/logs
+deps/tomcat/qchat_admin_open/webapps/qchat_admin_open*
